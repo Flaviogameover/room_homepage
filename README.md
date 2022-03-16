@@ -7,7 +7,6 @@ This is a solution to the [Room homepage challenge on Frontend Mentor](https://w
 -   [Overview](#overview)
     -   [The challenge](#the-challenge)
     -   [Screenshot](#screenshot)
-    -   [Links](#links)
 -   [My process](#my-process)
     -   [Built with](#built-with)
 -   [Author](#author)
@@ -29,9 +28,6 @@ Users should be able to:
 ![](./screen_2.png)
 ![](./screen_3.png)
 
-### Links
-
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
 
 ## My process
 
