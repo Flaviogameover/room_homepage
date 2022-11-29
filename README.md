@@ -31,7 +31,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Solution URL: [Code on Github](https://github.com/Flaviogameover/room_homepage/)
+-   Live Site URL: [Live on Heroku](https://flaviogameover-room-homepage.netlify.app)
 
 ## My process
 
