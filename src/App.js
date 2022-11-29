@@ -58,7 +58,7 @@ const App = () => {
     document.addEventListener("keydown", (event) => {
         if (event.key === "ArrowRight") {
             handleIncrease();
-        }else if (event.key === "ArrowLeft"){
+        } else if (event.key === "ArrowLeft") {
             handleDecrease();
         }
     });
@@ -122,7 +122,7 @@ const App = () => {
                             </div>
                         </nav>
                     </header>
-                    <img src={feature_change[curFeature].img} />
+                    <img src={feature_change[curFeature].img} alt="banner" />
                     <div className="feature-buttons">
                         <button onClick={handleDecrease}>
                             <IconLeft />
@@ -138,7 +138,7 @@ const App = () => {
                         <p className="very_dark_gray">
                             {feature_change[curFeature].description}
                         </p>
-                        <a className="very_dark_gray" href="#">
+                        <a className="very_dark_gray" href="/">
                             SHOP NOW <Arrow />
                         </a>
                     </div>
@@ -146,7 +146,7 @@ const App = () => {
             </div>
             <div className="home-more">
                 <div className="more-img">
-                    <img src={more1} />
+                    <img src={more1} alt="black chair" />
                 </div>
                 <div className="more-info">
                     <h3>About our furniture</h3>
@@ -161,7 +161,7 @@ const App = () => {
                     </p>
                 </div>
                 <div className="more-img">
-                    <img src={more2} />
+                    <img src={more2} alt="white chair" />
                 </div>
             </div>
         </div>
